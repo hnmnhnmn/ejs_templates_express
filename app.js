@@ -11,6 +11,10 @@ app.get('/:userQuery',(req,res)=>{
                                username : 'lkjslkjdf'}});
 });
 
+  
 
+
+
+console.log("ejs");
 
 app.listen(3000);
